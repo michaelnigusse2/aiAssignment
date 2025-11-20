@@ -24,15 +24,25 @@ This tool is designed for learning, experimentation, and demonstrating the diffe
 Your folder should look like this:
 
 TaxiDriverAssignment/
+
 │── main.py                 # Application entry point
+
 │── mainwindow.py           # Main window logic
+
 │── map_widget.py           # Handles graphics, scene, nodes, edges
+
 │── node_item.py            # Node visualization (QGraphicsEllipseItem)
+
 │── edge_item.py            # Edge visualization (QGraphicsLineItem)
+
 │── graph.py                # Loads graph from map.txt and load heuristics from heuristic.txt
+
 │── algorithms.py           # Contains both UCS and A* implementations
+
 │── generate_heuristic.py   # Script to generate heuristic.txt automatically
+
 │── map.txt                 # Integer-based weighted graph description
+
 │── heuristic.txt           # Heuristic values for A*, format: "NodeA NodeB h"
 
 
