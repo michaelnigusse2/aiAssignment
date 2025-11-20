@@ -61,12 +61,12 @@ Everything else uses only Python’s built-in standard library.
 4. Running the Application
 
 
-   Navigate to the project directory:
+a. Navigate to the project directory:
 
 bash
 cd TaxiDriverAssignment
 
-   Run the main program:
+b.Run the main program:
 
 bash
 python main.py
@@ -87,7 +87,7 @@ The visualizer window will open, allowing you to:
 
 5. Data Files
 
-   map.txt
+a.map.txt
 
 Contains integer costs for edges between locations, e.g.:
 
@@ -95,7 +95,7 @@ MeskelSquare Kazanchis 3
 Bole Saris 4
 Mexico Stadium 2
 
-  heuristic.txt
+b.heuristic.txt
 
 Contains heuristic values for A*, format:
 
