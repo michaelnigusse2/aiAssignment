@@ -1,0 +1,50 @@
+## node1 node2 distance
+# Meskel Square Area
+MeskelSquare Olympia 1
+MeskelSquare Mexico 2
+MeskelSquare Stadium 1
+MeskelSquare Kazanchis 2
+MeskelSquare Megenagna 5
+MeskelSquare Gotera 4
+MeskelSquare AratKilo 2
+
+
+# Bole Area
+BoleAirport BoleMedhanialem 1
+BoleAirport BoleBrass 1
+BoleAirport Olympia 3
+BoleAirport CMC 7
+BoleAirport Gotera 4
+BoleAirport Saris 5
+
+# CMC / Megenagna Corridor
+CMC Ayat 2
+CMC Megenagna 5
+Megenagna AratKilo 4
+Megenagna BoleBrass 3
+Kazanchis Megenagna 3
+
+
+# Connections toward Piassa
+AratKilo Piassa 1
+Kazanchis AratKilo 3
+Piassa Churchill 1
+Churchill Stadium 2
+
+# Mexico / Sar Bet / Torhailoch
+Mexico Stadium 1
+Mexico SarBet 2
+Mexico Torhailoch 3
+SarBet Gotera 2
+SarBet OldAirport 1
+Torhailoch OldAirport 2
+
+# Western Route (Piassa–Merkato–Autobus Tera)
+Piassa Merkato 2
+Merkato AutobusTera 1
+AutobusTera Stadium 3
+
+# Southern Side (Gotera–Saris–Kaliti)
+Gotera Saris 4
+Saris Kaliti 7
+
