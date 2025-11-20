@@ -59,6 +59,8 @@ Everything else uses only Python’s built-in standard library.
 
 
 4. Running the Application
+1
+
 
 1. Navigate to the project directory:
 
